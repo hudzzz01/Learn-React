@@ -1,0 +1,34 @@
+#container{
+    padding: 3rem;
+}
+
+#login-form{
+    padding: 7rem;
+}
+
+
+
+@media screen and (max-width: 600px) {
+    #container{
+        padding: 0;
+    }
+    #login-form{
+        padding: 4rem;
+    }
+    #hero-image{
+        display: none;
+    }
+  }
+
+
+  @media screen and (max-width: 300px) {
+   
+    #login-form{
+        padding: 1rem;
+    }
+    
+  }
+
+  #goto-dashboard{
+    display: none;
+  }
