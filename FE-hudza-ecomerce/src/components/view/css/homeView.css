@@ -1,0 +1,13 @@
+.hero-button-position{
+    position: relative;
+    bottom: 33rem;
+    left: 68rem;
+}
+
+#hero-button-star-shop{
+    position: relative;
+    bottom: 10rem;
+}
+#bag-user{
+    visibility: hidden;
+}
